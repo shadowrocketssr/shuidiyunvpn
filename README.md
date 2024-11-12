@@ -11,7 +11,9 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>水滴云机场的最新官网：https://b.shuidiyun.top。。官网还可以正常登陆。官网上显示水滴云机场客服最后登陆日期为10月30号，工单和邮箱，在线客服都处于无人处理消息的状态，这表明水滴云机场已经跑路倒闭了。</p>
+<p>水滴云机场的最新官网：https://b.shuidiyun.top
+  
+官网还可以正常登陆。官网上显示水滴云机场客服最后登陆日期为10月30号，工单和邮箱，在线客服都处于无人处理消息的状态，这表明水滴云机场已经跑路倒闭了。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -22,9 +24,6 @@
 <p>为了防止水滴云机场这种出现突发的技术故障和跑路倒闭情况，我们强烈推荐一款高速稳定的机场梯子 – DOVE加速器。作为备选替代方案，当水滴云机场加速器不能用时，DOVE加速器的平替可以确保您的网络使用不受影响。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>加速器名称</strong></td><td><strong>产品优势</strong></td><td><strong>免费试用</strong></td><td><strong>官网地址</strong></td></tr><tr><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">DOVE加速器</a></strong></td><td>新手必备一键连接，最稳定的上外网梯子工具</td><td>注册账户，即可试用4小时</td><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">点击注册</a></strong></td></tr></tbody></table></figure>
-<!-- /wp:table -->
 
 <!-- wp:image -->
 <figure class="wp-block-image"><img src="https://www.leavescn.com/Files/images/20240404/4aed85a3336f4c30a3af1defe963e8d5.png" alt="推荐分享高速稳定，好用靠谱的梯子机场上网软件-DOVE加速器"/></figure>
