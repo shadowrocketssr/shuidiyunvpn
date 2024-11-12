@@ -68,3 +68,7 @@
 <!-- wp:paragraph -->
 <p>DOVE加速器作为一个可靠的替代选择，提供全面的服务和保障，值得大家考虑。在选择机场梯子服务时，建议关注服务提供商的信誉和售后保障。DOVE加速器以其高性价比、稳定的节点和优质的客服服务，成为我们的首选推荐。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>加速器名称</strong></td><td><strong>产品优势</strong></td><td><strong>免费试用</strong></td><td><strong>官网地址</strong></td></tr><tr><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">DOVE加速器</a></strong></td><td>新手必备一键连接，最稳定的上外网梯子工具</td><td>注册账户，即可试用4小时</td><td><strong><a href="https://tgjkdjfk.top/a.php?amawx2CyMVa2" target="_blank" rel="noreferrer noopener">点击注册</a></strong></td></tr></tbody></table></figure>
+<!-- /wp:table -->
